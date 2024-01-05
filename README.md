@@ -1,3 +1,8 @@
+# Read this before you continue
+This project was done for my Back-End Web Development module, or BED, for short.
+No more updates will be made to this file as it has already been submitted. The original repository is in github classroom and sadly you can't view it.
+For this project to work, refer to Step 1.
+
 # Name, Class and Admin Number
 - Name: Reyes Asher Benedict Calaminos
 - Class: DIT/FT/1B/11
